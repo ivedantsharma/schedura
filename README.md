@@ -14,7 +14,6 @@ Schedura is a modern scheduling application inspired by Calendly. It enables use
 - [Database Model](#database-model)
 - [Getting Started](#getting-started)
 - [License](#license)
-- [Author](#author)
 
 ---
 
@@ -191,10 +190,3 @@ Follow the steps below to set up and run the project:
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
 
 ---
-
-## Author
-
-- **LinkedIn** - [aviral07](https://www.linkedin.com/in/aviral07/)
-- **Twitter** - [\_aviral07](https://twitter.com/_aviral07)
-- **Github** - [aviralsharma07](https://github.com/aviralsharma07)
-- **Resume** - [Resume](https://flowcv.com/resume/20ntf1waah)
